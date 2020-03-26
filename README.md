@@ -4,9 +4,7 @@ demo app and it is based on the MTCNN4Android implementation of [vcvycy](https:/
 ## Notice
 This project is an under construction project and should not be taken into production or (maybe) thesis anyway :)) \n
 ## TODO list:
-1. Reimplement the MTCNN and the facenet in Tensorflow Lite (Lite version is not fully developed at the moment, so i stayed with \n
-the Tensorflow Interface)\n
-2. Implement a SVM library with Java, i tried libSVM and i must say i am not a fan of libSVM, so maybe in the future, i will comback \n
-and reimplement the SVM.\n
+1. Reimplement the MTCNN and the facenet in Tensorflow Lite (Lite version is not fully developed at the moment, so i stayed with the Tensorflow Interface)
+2. Implement a SVM library with Java, i tried libSVM and i must say i am not a fan of libSVM, so maybe in the future, i will come back and reimplement the SVM.
 
 
