@@ -3,6 +3,7 @@ This is a small project about face regconition on Android device, this project i
 demo app and it is based on the MTCNN4Android implementation of [vcvycy](https://github.com/vcvycy/MTCNN4Android/tree/master/app) and the famous [Facenet](https://github.com/davidsandberg/facenet) implementation with a homemade kNN to perform recognition.
 
 <div style="text-align:center"><img src="https://github.com/DangLamTung/AndroidFaceRegcontion/blob/master/trump.png" /></div>
+
 ## Notice
 This project is an under construction project and should not be taken into production or (maybe) thesis by any mean :))
 ## TODO list:
