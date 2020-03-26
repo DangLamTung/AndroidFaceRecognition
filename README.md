@@ -5,6 +5,7 @@ demo app and it is based on the MTCNN4Android implementation of [vcvycy](https:/
 <p align="center">
   <img src="https://github.com/DangLamTung/AndroidFaceRegcontion/blob/master/trump.png" />
 </p>
+
 ## Notice
 This project is an under construction project and should not be taken into production or (maybe) thesis by any mean :))
 ## TODO list:
